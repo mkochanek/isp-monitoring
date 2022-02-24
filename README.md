@@ -10,7 +10,7 @@ Provide Telegraf with configuration file from this repo. The Telegraf's configur
 
 Upload bash script speedtest.sh from this repo to /usr/bin/
 
-Upload speedtest.net CLI (speedtest) to /usr/bin
+Upload [speedtest.net CLI](https://www.speedtest.net/apps/cli) (speedtest) to /usr/bin
 
 Set sufficient permissions for these files so that Telegraf user can use them. 
 
