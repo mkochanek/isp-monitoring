@@ -8,7 +8,7 @@ Installation of Grafana, Telegraf and InfluxDB is out of scope. Please follow ve
 
 Provide Telegraf with configuration file from this repo. The Telegraf's configuration file default location is /etc/telegraf/telegraf.conf
 
-Upload bash script speedtest.sh from this repo to /usr/bin/. Set the server ID (-s <serverID>) that you wish to monitor against. This is taken from '''/usr/bin/speedtest -L''' command. 
+Upload bash script speedtest.sh from this repo to /usr/bin/. Set the server ID (-s <serverID>) that you wish to monitor against. This is taken from `/usr/bin/speedtest -L` command. 
 
 Upload [speedtest.net CLI](https://www.speedtest.net/apps/cli) (speedtest) to /usr/bin
 
